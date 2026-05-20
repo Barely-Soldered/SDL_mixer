@@ -25,7 +25,7 @@
 
 #include "SDL_mixer_internal.h"
 
-#include <opusfile.h>
+#include <opus/opusfile.h>
 
 #if defined(OPUS_DYNAMIC) && defined(SDL_ELF_NOTE_DLOPEN)
 SDL_ELF_NOTE_DLOPEN(
