@@ -1,3 +1,5 @@
+> **Modified copy.** This is a modified copy of SDL_mixer 3.2.2, maintained by Barely Soldered at https://github.com/Barely-Soldered/SDL_mixer (tag release-3.2.2-bs.1) for its own projects: rebuilt for meson alone, with platforms and components it does not use removed and the tree restructured. It is not the original software, which is at https://github.com/libsdl-org/SDL_mixer. The licence is unchanged; see LICENSE.txt.
+
 
 # SDL_mixer 3.0
 
